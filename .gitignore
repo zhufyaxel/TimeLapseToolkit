@@ -1,0 +1,64 @@
+# Virtual environment
+venv/
+env/
+.venv/
+.env/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE specific files
+.vscode/
+.idea/
+
+# Output files (optional, remove if you want to track these)
+output/
+input_images_zipped/
+
+# Temporary files
+*.tmp
+
+# FFmpeg binary (in case it's downloaded locally)
+ffmpeg.exe
+ffmpeg
+
+# OpenH264 files (various formats)
+openh264*.dll
+libopenh264*.so
+libopenh264*.dylib
+openh264*.tar.gz
+openh264*.tgz
+openh264*.zip
+openh264*.bz2
+
+# Temporary file created by create_gif_from_images.py
+filelist.txt
+
+# Compressed files (in case they are downloaded)
+*.gz
+*.tar
+*.zip
+*.rar
+*.7z
+*.bz2
+
+# Binary files
+*.bin
+*.exe
+*.dll
+*.so
+*.dylib
