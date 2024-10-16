@@ -1,3 +1,4 @@
+# TimeLapseToolkit: GIF Creation Module
 import os
 import subprocess
 from PIL import Image

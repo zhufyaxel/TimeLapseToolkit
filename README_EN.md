@@ -1,4 +1,4 @@
-# Image to Video/GIF Conversion Tool
+# TimeLapseToolkit: Image to Video/GIF Conversion Tool
 
 [中文](README.md) | English
 

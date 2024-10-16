@@ -1,4 +1,4 @@
-# 图片到视频/GIF转换工具
+# TimeLapseToolkit: 图片到视频/GIF转换工具
 
 [English](README.md) | 中文
 

@@ -1,4 +1,5 @@
 #!/bin/bash
+# TimeLapseToolkit: OpenH264 Installation Script
 
 # Download libopenh264
 echo "Downloading libopenh264..."

@@ -25,9 +25,9 @@ Thumbs.db
 .vscode/
 .idea/
 
-# Output files (optional, remove if you want to track these)
-output/
-input_images_zipped/
+# Output files (optional, you can decide to track these)
+# output/
+# input_images_zipped/
 
 # Temporary files
 *.tmp
@@ -62,3 +62,6 @@ filelist.txt
 *.dll
 *.so
 *.dylib
+
+# TimeLapseToolkit
+*.pyc

@@ -1,3 +1,4 @@
+# TimeLapseToolkit: Image Compression Module
 import os
 from PIL import Image
 
