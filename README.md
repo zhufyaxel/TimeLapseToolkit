@@ -2,7 +2,7 @@
 
 [中文](README_CN.md) | English
 
-This is a powerful image processing toolkit designed for batch processing images, creating videos, and GIFs. It's particularly suitable for processing time-lapse photography results, but can also be used for other scenarios requiring batch image processing.
+This is an image processing toolkit designed for batch processing images, creating videos, and GIFs. It's particularly suitable for processing time-lapse photography results, but can also be used for other scenarios requiring batch image processing.
 
 ## Example Outputs
 
