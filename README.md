@@ -24,11 +24,7 @@ This is an image processing toolkit designed for batch processing images, creati
 
 2. Note for Windows users: The scripts in this project need to be run in an environment similar to Git Bash. If you haven't installed Git Bash yet, please download and install it from the [official website](https://git-scm.com/download/win).
 
-3. Clone the repository:
-   ```
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
-   ```
+3. Clone the repository
 
 4. Run the initialization script:
    - Windows (in Git Bash): `./init_project.sh`
