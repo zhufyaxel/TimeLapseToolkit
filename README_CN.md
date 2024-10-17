@@ -24,9 +24,7 @@
 
 2. Windows用户注意：本项目的脚本需要在类似Git Bash的环境中运行。如果您还没有安装Git Bash，请从[官方网站](https://git-scm.com/download/win)下载并安装。
 
-3. 克隆仓库：   ```
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name   ```
+3. 克隆仓库
 
 4. 运行初始化脚本：
    - Windows (在Git Bash中): `./init_project.sh`
